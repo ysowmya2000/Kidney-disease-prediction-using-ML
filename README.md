@@ -2,7 +2,7 @@
 This repository contains a comprehensive pipeline for predicting kidney disease using machine learning models. The project demonstrates data preprocessing, exploratory data analysis (EDA), feature engineering, and model building with hyperparameter tuning. It evaluates multiple machine learning models for their accuracy and ROC-AUC performance.
 
 ## Libraries Used 
-- Python 3.x
+- Python 3
 - pandas
 - numpy
 - matplotlib
